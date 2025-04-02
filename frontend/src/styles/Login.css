@@ -1,0 +1,57 @@
+.login-container {
+    max-width: 300px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+    border-radius: 8px;
+  }
+  
+  .input-group {
+    width: 100%;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #fff;
+  }
+  
+  .input-field::placeholder {
+    color: #aaa;
+  }
+  
+  
+  .btn {
+    width: 326px;
+    padding: 12px;
+    background-color: navy;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f8f8;
+  }
+  .welcome{
+    font-size: 32px;
+  }
+  

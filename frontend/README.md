@@ -1,6 +1,6 @@
-# Frontend - React + TypeScript
+# 🎨Frontend - React + TypeScript
 
-## Overview
+## 📌Overview
 This is the frontend of the application, built using **React + TypeScript** and follows a modular structure with reusable components.
 
 ## Tech Stack
@@ -11,13 +11,13 @@ This is the frontend of the application, built using **React + TypeScript** and 
 - **Zod** (Validation)
 - **Axios** (API Requests)
 
-## Setup & Installation
+## 🛠️Setup & Installation
 
-### Prerequisites
+### 📌Prerequisites
 - Node.js (>= 18.x)
 - npm or yarn
 
-### Steps to Run
+### 📥Steps to Run
 ```sh
 # Navigate to the frontend folder
 cd frontend

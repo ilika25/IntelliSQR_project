@@ -30,3 +30,20 @@ echo "VITE_API_URL=http://localhost:5000/api" > .env
 
 # Start the frontend server
 npm run dev
+
+```
+## Project Structure
+```sh
+frontend/
+│── src/
+│   ├── components/   # Reusable UI components
+│   ├── pages/        # Page-level components
+│   ├── hooks/        # Custom hooks
+│   ├── utils/        # Validation & helper functions
+│   ├── api/          # API requests
+│   ├── styles/       # Styling
+│   ├── App.tsx       # Main entry point
+│── package.json      # Dependencies & scripts
+│── tsconfig.json     # TypeScript configuration
+│── vite.config.ts    # Vite configuration
+```
